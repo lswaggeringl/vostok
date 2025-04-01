@@ -4,21 +4,21 @@
     "description": "",
     "main": "server.js",
     "dependencies": {
-      "express": "^4.17.1"
+        "express": "^4.21.2",
+        "serve-favicon": "^2.5.0"
     },
-    "devDependencies": {},
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lswaggeringl/vostok.git"
+        "type": "git",
+        "url": "git+https://github.com/lswaggeringl/vostok.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/lswaggeringl/vostok.git/issues"
+        "url": "https://github.com/lswaggeringl/vostok.git/issues"
     },
     "homepage": "https://github.com/lswaggeringl/vostok.git#readme"
-  }
+}
